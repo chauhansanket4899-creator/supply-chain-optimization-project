@@ -12,7 +12,7 @@ This project focuses on optimizing supply chain operations using structured plan
 
 ![Gantt](gantt-chart.png)
 
-➡️ Represents the timeline of procurement, inventory, logistics, and performance phases.
+➡️ This Gantt chart visualizes the complete supply chain workflow from procurement planning to performance monitoring, highlighting task dependencies and execution timelines.
 
 ---
 
@@ -20,7 +20,7 @@ This project focuses on optimizing supply chain operations using structured plan
 
 ![WBS](wbs.png)
 
-➡️ Breaks down the project into structured tasks and phases for better execution.
+➡️ This Work Breakdown Structure (WBS) divides the project into structured phases and tasks, ensuring better planning, coordination, and execution control.
 
 ---
 
@@ -37,6 +37,15 @@ This project focuses on optimizing supply chain operations using structured plan
 * Importance of planning in supply chain
 * Task breakdown improves efficiency
 * Visualization helps in better decision-making
+
+---
+
+## 💼 Business Impact
+
+- Improved visibility across supply chain stages  
+- Better coordination between procurement and logistics  
+- Structured planning reduces execution delays  
+- Helps in identifying bottlenecks in operations  
 
 ---
 
