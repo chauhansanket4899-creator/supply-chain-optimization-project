@@ -2,7 +2,11 @@
 
 ## 📌 Overview
 
-This project focuses on optimizing supply chain operations using structured planning tools and analytical models. It highlights procurement planning, task breakdown, and execution strategy.
+This project simulates a real-world supply chain optimization scenario, focusing on improving procurement planning, task execution, and operational efficiency.
+
+Using structured tools like Gantt Chart and Work Breakdown Structure (WBS), the project highlights process dependencies, identifies potential delays, and improves coordination across different stages of the supply chain.
+
+📍 Use Case: Applicable to manufacturing and FMCG supply chain operations
 
 ---
 
@@ -12,7 +16,7 @@ This project focuses on optimizing supply chain operations using structured plan
 
 ![Gantt](gantt-chart.png)
 
-➡️ This Gantt chart visualizes the complete supply chain workflow from procurement planning to performance monitoring, highlighting task dependencies and execution timelines.
+➡️ This Gantt chart visualizes the complete supply chain workflow from procurement planning to performance monitoring, highlighting task dependencies, execution flow, and timeline efficiency. Developed using Oracle Primavera for structured project scheduling.
 
 ---
 
@@ -20,32 +24,43 @@ This project focuses on optimizing supply chain operations using structured plan
 
 ![WBS](wbs.png)
 
-➡️ This Work Breakdown Structure (WBS) divides the project into structured phases and tasks, ensuring better planning, coordination, and execution control.
+➡️ This Work Breakdown Structure (WBS) divides the project into structured phases and tasks, enabling better planning, coordination, and execution control across supply chain activities.
 
 ---
 
-## 🎯 Objective
+## 🎯 Objectives
 
-* Improve supply chain planning
-* Reduce operational delays
-* Ensure structured execution
+* Improve supply chain planning and visibility
+* Reduce operational delays across stages
+* Ensure structured and efficient execution
 
 ---
 
-## 💡 Key Learnings
+## 🔍 Key Insights
 
-* Importance of planning in supply chain
-* Task breakdown improves efficiency
-* Visualization helps in better decision-making
+* Structured planning significantly improves execution efficiency
+* Clear task breakdown reduces operational confusion
+* Visualization tools enhance decision-making and tracking
+* End-to-end visibility helps identify process bottlenecks
 
 ---
 
 ## 💼 Business Impact
 
-- Improved visibility across supply chain stages  
-- Better coordination between procurement and logistics  
-- Structured planning reduces execution delays  
-- Helps in identifying bottlenecks in operations  
+* Improved coordination between procurement, inventory, and logistics
+* Better visibility across supply chain stages
+* Reduced delays through structured planning
+* Enhanced ability to identify and manage bottlenecks
+
+---
+
+## ⚙️ Tools & Concepts Used
+
+* Oracle Primavera (Project Scheduling & Planning)
+* Gantt Chart (Project Timeline Visualization)
+* Work Breakdown Structure (WBS)
+* Supply Chain Planning Concepts
+* Process Visualization
 
 ---
 
